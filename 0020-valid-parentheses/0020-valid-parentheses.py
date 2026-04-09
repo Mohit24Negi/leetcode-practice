@@ -1,17 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        hash_value = {
-            "(" : ")", "[" : "]", "{" : "}"
-        }
         stack = []
-
-        for i in s:
-            if i in hash_value:
-                stack.append(i)
+        m = {')': '(', ']': '[', '}': '{'}
+        
+        for c in s:
+            if c in m:
+                if not stack or stack.pop() != m[c]:
+                    return False
             else:
-                if not stack:
-                    return False
-                top = stack.pop()
-                if hash_value[top] != i:
-                    return False
-        return len(stack) == 0
+                stack.append(c)
+        
+        return not stack
