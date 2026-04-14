@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0066-plus-one/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
