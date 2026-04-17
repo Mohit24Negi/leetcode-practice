@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,8 +35,13 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
