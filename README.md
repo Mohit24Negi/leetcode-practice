@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
