@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
@@ -36,6 +37,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -50,6 +52,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit24Negi/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Database
 | Problem Name | Difficulty |
